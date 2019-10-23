@@ -29,6 +29,21 @@
 "Adversarial Unsupervised Representation Learning for Activity Time-Series".
 [[paper](https://arxiv.org/pdf/1811.06847.pdf)]
 
+### IWQoS2019
+* Fangxin Wang, Jiangchuan Liu, Wei Gong. </br>
+"WiCAR: wifi-based in-car activity recognition with multi-adversarial domain adaptation".
+[[paper](https://dl.acm.org/citation.cfm?doid=3326285.3329054)]
+
+### MobiCom2018
+* Wenjun Jiang, Chenglin Miao, Fenglong Ma, Shuochao Yao, Yaqing Wang, Ye Yuan, Hongfei Xue, Chen Song, Xin Ma, Dimitrios Koutsonikolas, Wenyao Xu, Lu Su. </br>
+"Towards Environment Independent Device Free Human Activity Recognition".
+[[paper](https://dl.acm.org/citation.cfm?doid=3241539.3241548)]
+
+### ICML2017
+*	Mingmin Zhao, Shichao Yue, Dina Katabi, Tommi S. Jaakkola, Matt T. Bianchi. </br>
+"Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture".
+[[paper](http://proceedings.mlr.press/v70/zhao17d/zhao17d.pdf)]
+
 ## Journal
 
 * **Review** Henry Friday Nweke, Ying Wah Teh,∗, Mohammed Ali Al-garadi , Uzoma Rita Alo </br>
