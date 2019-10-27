@@ -29,7 +29,7 @@
 "Adversarial Unsupervised Representation Learning for Activity Time-Series".
 [[paper](https://arxiv.org/pdf/1811.06847.pdf)]
 
-* **PhoneMD** Patrick Schwab , Walter Karlen.</br>
+* **PhoneMD:** Patrick Schwab , Walter Karlen.</br>
 "PhoneMD: Learning to Diagnose Parkinson's Disease from Smartphone Data".
 [[paper](https://arxiv.org/pdf/1810.01485.pdf)]
 
