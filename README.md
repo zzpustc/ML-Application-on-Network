@@ -16,6 +16,14 @@
 "Mutually Reinforced Spatio-Temporal Convolutional Tube for Human Action Recognition".
   [[paper](https://www.ijcai.org/proceedings/2019/0136.pdf)]
   
+* Katia Bourahmoune ∗, Toshiyuki Amagasa</br>
+"AI-powered Posture Training: Application of Machine Learning in Sitting Posture Recognition Using the LifeChair Smart Cushion".
+[[paper](https://www.ijcai.org/proceedings/2019/0805.pdf)]
+
+* Kazuhiko Shinoda , Masahiko Yoshii , Hayato Yamaguchi and Hirotaka Kaji</br>
+"Daytime Sleepiness Level Prediction Using Respiratory Information".
+[[paper](https://www.ijcai.org/proceedings/2019/0827.pdf)]
+  
 ### AAAI2019
 * Hangwei Qian, Sinno Jialin Pan, Chunyan Miao. </br>
 "Distribution-based Semi-Supervised Learning for Activity Recognition".
