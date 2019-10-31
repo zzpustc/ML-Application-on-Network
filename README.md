@@ -45,9 +45,10 @@
 " Bidirectional Inference Networks with Application to Health Profiling"
 [[paper](https://arxiv.org/pdf/1902.02037.pdf)]
 
-
-
-
+### MobiCom2019
+* Hanbin Zhang , Chenhan Xu , Huining Li , Aditya Singh Rathore , Chen Song , Zhisheng Yan , Dongmei Li , Feng Lin , Kun Wang , Wenyao Xu</br>
+"PDVocal: Towards Privacy-preserving Parkinson’s Disease Detection using Non-speech Body Sounds"
+[[paper](https://dl.acm.org/citation.cfm?doid=3300061.3300125)]
 
 
 ### IWQoS2019
