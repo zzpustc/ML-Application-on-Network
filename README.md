@@ -50,6 +50,27 @@
 "PDVocal: Towards Privacy-preserving Parkinson’s Disease Detection using Non-speech Body Sounds"
 [[paper](https://dl.acm.org/citation.cfm?doid=3300061.3300125)]
 
+### INFOCOM2019
+* Jia Liu,Xingyu Chen,Shigang Chen,Xiulong Liu,Yanyan Wang,Lijun Chen.</br>
+"TagSheet: Sleeping Posture Recognition with an Unobtrusive Passive Tag Matrix"
+[[paper](https://ieeexplore.ieee.org/document/8737599)]
+
+* Ran He ; Jin Cao ; Lisa Zhang ; Denny Lee. </br>
+"Statistical Enrichment Models for Activity Inference from Imprecise Location Data".
+[[paper]("https://ieeexplore.ieee.org/document/8737535")]
+
+* Chuyu Wang ; Lei Xie ; Keyan Zhang ; Wei Wang ; Yanling Bu ; Sanglu Lu</br>
+"Spin-Antenna: 3D Motion Tracking for Tag Array Labeled Objects via Spinning Antenna"
+[[paper](https://ieeexplore.ieee.org/document/8737372)]
+
+* Shuochao Yao, Yiran Zhao, Huajie Shao, Dongxin Liu, Shengzhong Liu, Yifan Hao, Ailing Piao, Shaohan Hu, Lu Su, Tarek Abdelzaher.</br>
+"SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications"
+[[paper]("https://cse.buffalo.edu/~lusu/papers/INFOCOM2019Shuochao.pdf")]
+
+* Pengfei Liu ; Panlong Yang ; Wen-Zhan Song ; Yubo Yan ; Xiang-Yang Li </br>
+"Real-time Identification of Rogue WiFi Connections Using Environment-Independent Physical Features".
+[[paper]("https://ieeexplore_ieee.xilesou.top/abstract/document/8737455")]
+
 
 ### IWQoS2019
 * Fangxin Wang, Jiangchuan Liu, Wei Gong. </br>
