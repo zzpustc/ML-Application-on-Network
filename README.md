@@ -1,4 +1,5 @@
 # Human Activity Recognition
+This repo includes but not limited on papers on HAR, and it's created mainly for updating recent research about the AI on Network.
 
 ## Benchmark
 
