@@ -75,7 +75,7 @@ This repo includes but not limited on papers on HAR, and it's created mainly for
 ### MobiSys2019
 * Yang Liu, Zhenjiang Li,Zhidan Liu, Kaishun Wu </br>
 "Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors".
-[paper("http://www.cs.cityu.edu.hk/~zhenjili/2019-MobiSys-ArmTroi.pdf")]
+[[paper]("http://www.cs.cityu.edu.hk/~zhenjili/2019-MobiSys-ArmTroi.pdf")]
 
 * Hua Huang, Hongkai Chen, Shan Lin <br>
 "MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics"
