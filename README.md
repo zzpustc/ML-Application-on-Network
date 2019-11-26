@@ -72,6 +72,16 @@ This repo includes but not limited on papers on HAR, and it's created mainly for
 "Real-time Identification of Rogue WiFi Connections Using Environment-Independent Physical Features".
 [[paper]("https://ieeexplore_ieee.xilesou.top/abstract/document/8737455")]
 
+### MobiSys2019
+* Yang Liu, Zhenjiang Li,Zhidan Liu, Kaishun Wu </br>
+"Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors".
+[paper("http://www.cs.cityu.edu.hk/~zhenjili/2019-MobiSys-ArmTroi.pdf")]
+
+* Hua Huang, Hongkai Chen, Shan Lin <br>
+"MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics"
+[[paper]("http://www.ece.sunysb.edu/~slin/Publications/mobisys.pdf")]
+
+
 
 ### IWQoS2019
 * Fangxin Wang, Jiangchuan Liu, Wei Gong. </br>
