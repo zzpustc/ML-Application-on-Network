@@ -57,8 +57,8 @@ This repo includes but not limited on papers on HAR, and it's created mainly for
 [[paper](https://ieeexplore.ieee.org/document/8737599)]
 
 * Ran He ; Jin Cao ; Lisa Zhang ; Denny Lee. </br>
-"Statistical Enrichment Models for Activity Inference from Imprecise Location Data".
-[[paper]("https://ieeexplore.ieee.org/document/8737535")]
+"Statistical Enrichment Models for Activity Inference from Imprecise Location Data"
+[[paper](https://ieeexplore.ieee.org/document/8737535)]
 
 * Chuyu Wang ; Lei Xie ; Keyan Zhang ; Wei Wang ; Yanling Bu ; Sanglu Lu</br>
 "Spin-Antenna: 3D Motion Tracking for Tag Array Labeled Objects via Spinning Antenna"
@@ -66,20 +66,20 @@ This repo includes but not limited on papers on HAR, and it's created mainly for
 
 * Shuochao Yao, Yiran Zhao, Huajie Shao, Dongxin Liu, Shengzhong Liu, Yifan Hao, Ailing Piao, Shaohan Hu, Lu Su, Tarek Abdelzaher.</br>
 "SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications"
-[[paper]("https://cse.buffalo.edu/~lusu/papers/INFOCOM2019Shuochao.pdf")]
+[[paper](https://cse.buffalo.edu/~lusu/papers/INFOCOM2019Shuochao.pdf)]
 
 * Pengfei Liu ; Panlong Yang ; Wen-Zhan Song ; Yubo Yan ; Xiang-Yang Li </br>
 "Real-time Identification of Rogue WiFi Connections Using Environment-Independent Physical Features".
-[[paper]("https://ieeexplore_ieee.xilesou.top/abstract/document/8737455")]
+[[paper](https://ieeexplore_ieee.xilesou.top/abstract/document/8737455)]
 
 ### MobiSys2019
 * Yang Liu, Zhenjiang Li,Zhidan Liu, Kaishun Wu </br>
 "Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors".
-[[paper]("http://www.cs.cityu.edu.hk/~zhenjili/2019-MobiSys-ArmTroi.pdf")]
+[[paper](http://www.cs.cityu.edu.hk/~zhenjili/2019-MobiSys-ArmTroi.pdf)]
 
 * Hua Huang, Hongkai Chen, Shan Lin <br>
 "MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics"
-[[paper]("http://www.ece.sunysb.edu/~slin/Publications/mobisys.pdf")]
+[[paper](http://www.ece.sunysb.edu/~slin/Publications/mobisys.pdf)]
 
 
 
