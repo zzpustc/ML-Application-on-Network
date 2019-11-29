@@ -81,6 +81,25 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 "MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics"
 [[paper](http://www.ece.sunysb.edu/~slin/Publications/mobisys.pdf)]
 
+* Tai, Tzu-Chun, Kate Ching-Ju Lin, and Yu-Chee Tseng.</br>
+"Toward Reliable Localization by Unequal AoA Tracking"
+[[paper](https://dl.acm.org/citation.cfm?id=3326103)]
+
+* Siddhant Prakash, Alireza Bahremand, Linda D. Nguyen, and Robert LiKamWa </br>
+"GLEAM: An illumination estimation framework for real-time photorealistic augmented reality on mobile devices"
+[[paper](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf)]
+
+* Jian Liu; Cong Shi; Yingying Chen; Hongbo Liu; Marco Gruteser </br>
+"CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping"
+[[paper](http://winlab.rutgers.edu/~cs1421/paper/CardioCam.pdf)]
+
+* Eric Whitmire, Farshid Salemi Parizi, and Shwetak Patel </br>
+"Aura: Inside-out Electromagnetic Controller Tracking" 
+[[paper](https://ubicomplab.cs.washington.edu/pdfs/aura.pdf)]
+
+* Yue Zheng, Yi Zhang1, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang </br>
+"Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
+[[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
 
 
 ### IWQoS2019
@@ -97,6 +116,10 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 * Wenjun Jiang, Chenglin Miao, Fenglong Ma, Shuochao Yao, Yaqing Wang, Ye Yuan, Hongfei Xue, Chen Song, Xin Ma, Dimitrios Koutsonikolas, Wenyao Xu, Lu Su. </br>
 "Towards Environment Independent Device Free Human Activity Recognition".
 [[paper](https://dl.acm.org/citation.cfm?doid=3241539.3241548)]
+
+* Zhang J, Tang Z, Li M, et al.</br>
+"CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing".
+[[paper](https://eprints.lancs.ac.uk/id/eprint/126425/7/paper.pdf)]
 
 ### ICML2017
 *	Mingmin Zhao, Shichao Yue, Dina Katabi, Tommi S. Jaakkola, Matt T. Bianchi. </br>
