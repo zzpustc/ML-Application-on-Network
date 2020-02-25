@@ -51,6 +51,10 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 "PDVocal: Towards Privacy-preserving Parkinson’s Disease Detection using Non-speech Body Sounds"
 [[paper](https://dl.acm.org/citation.cfm?doid=3300061.3300125)]
 
+* Diana Zhang, Jingxian Wang, Junsu Jang </br>
+"On the Feasibility of Wi-Fi Based Material Sensing"
+[[paper](http://www.swarunkumar.com/papers/intuwition-mobicom2019.pdf)]
+
 ### INFOCOM2019
 * Jia Liu,Xingyu Chen,Shigang Chen,Xiulong Liu,Yanyan Wang,Lijun Chen.</br>
 "TagSheet: Sleeping Posture Recognition with an Unobtrusive Passive Tag Matrix"
