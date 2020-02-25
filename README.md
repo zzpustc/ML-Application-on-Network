@@ -47,11 +47,11 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 [[paper](https://arxiv.org/pdf/1902.02037.pdf)]
 
 ### MobiCom2019
-* Hanbin Zhang , Chenhan Xu , Huining Li , Aditya Singh Rathore , Chen Song , Zhisheng Yan , Dongmei Li , Feng Lin , Kun Wang , Wenyao Xu</br>
+* Hanbin Zhang , Chenhan Xu , Huining Li , Aditya Singh Rathore , Chen Song , Zhisheng Yan , Dongmei Li , Feng Lin , Kun Wang , Wenyao Xu.</br>
 "PDVocal: Towards Privacy-preserving Parkinson’s Disease Detection using Non-speech Body Sounds"
 [[paper](https://dl.acm.org/citation.cfm?doid=3300061.3300125)]
 
-* Diana Zhang, Jingxian Wang, Junsu Jang </br>
+* **IntuWition:** Diana Zhang, Jingxian Wang, Junsu Jang. </br>
 "On the Feasibility of Wi-Fi Based Material Sensing"
 [[paper](http://www.swarunkumar.com/papers/intuwition-mobicom2019.pdf)]
 
