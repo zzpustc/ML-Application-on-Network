@@ -55,6 +55,44 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 "On the Feasibility of Wi-Fi Based Material Sensing"
 [[paper](http://www.swarunkumar.com/papers/intuwition-mobicom2019.pdf)]
 
+* **vrAIn:** J. A. Ayala-Romero, A. Garcia-Saavedra, M. Gramaglia, X. Costa-Perez, A. Banchs, J. J. Alcaraz. </br>
+"vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs"
+[[paper](https://agsaaved.github.io/files/papers/2019_ayala_mobicom_vrain.pdf)]
+
+* 	Anfu Zhou, Huanhuan Zhang, Guangyuan Su, Leilei Wu, Ruoxuan Ma, Zhen Meng, Xinyu Zhang, Xiufeng Xie, Huadong Ma, Xiaojiang Chen</br>
+"Optimizing Mobile Video Telephony Using Deep Imitation Learning" 
+
+* 	Taegyeong Lee, Zhiqi Lin, Saumay Pushp, Caihua Li, Yunxin Liu, Youngki Lee, Fengyuan Xu, Chenren Xu, Lintao Zhang, Junehwa Song.</br>
+"Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX"
+
+* 	Wenguang Mao, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen </br>
+"RNN-Based Room Scale Hand Motion Tracking"
+[[paper](http://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom19_mao.pdf)]
+
+* Luyang Liu, Hongyu Li, Marco Gruteser</br>
+"Edge Assisted Real-time Object Detection for Mobile Augmented Reality"
+[[paper](http://www.winlab.rutgers.edu/~gruteser/papers/mobicom19_augmented_reality.pdf)]
+
+* Belal Korany, Chitra R. Karanam, Hong Cai, Yasamin Mostofi</br>
+XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage
+[[paper](https://www.ece.ucsb.edu/~ymostofi/papers/MobiCom19_KoranyKaranamCaiMostofi.pdf)]
+
+* Arjun Bakshi, Yifan Mao, Kannan Srinivasan, Srinivasan Parthasarathy</br>
+Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
+
+* **FLUID:** Sangeun Oh, Ahyeon Kim, Sunjae Lee, Kilho Lee, Dae R. Jeong, Steven Y. Ko, Insik Shin.</br>
+"FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction"
+[[paper](https://cps.kaist.ac.kr/papers/mobicom19-fluid.pdf)]
+
+* Xiufeng Xie, Kyu-Han Kim.</br>
+"Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision"
+
+* **MobiSR** Royson Lee, Stylianos I. Venieris, Lukasz Dudziak, Sourav Bhattacharya, Nicholas D. Lane.</br>
+"MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors"
+[[paper](https://steliosven10.github.io/papers/[2019]_mobicom_mobisr_efficient_on_device_super_resolution_through_heterogeneous_mobile_processors.pdf)]
+
+
+
 ### INFOCOM2019
 * Jia Liu,Xingyu Chen,Shigang Chen,Xiulong Liu,Yanyan Wang,Lijun Chen.</br>
 "TagSheet: Sleeping Posture Recognition with an Unobtrusive Passive Tag Matrix"
