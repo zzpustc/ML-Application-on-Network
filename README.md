@@ -4,6 +4,11 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 ## Benchmark
 
 ## Conference
+### MobiCom2020
+* **DLoc:** R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
+"Deep Learning based Wireless Localization for Indoor Navigation".
+[[paper](http://acsweb.ucsd.edu/~sayyalas/assets/files/DLoc_paper.pdf)]
+
 ### IJCAI2019
 * **SparseSense:** Alireza Abedin, S. Hamid Rezatofighi, Qinfeng Shi, Damith C. Ranasinghe.</br>
 "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks".
