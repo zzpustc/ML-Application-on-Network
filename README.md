@@ -9,6 +9,10 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 "Deep Learning based Wireless Localization for Indoor Navigation".
 [[paper](http://acsweb.ucsd.edu/~sayyalas/assets/files/DLoc_paper.pdf)]
 
+* W. Jiang, H. Xue, C. Miao, S. Wang, S. Lin, C. Tian, S. Murali, H. Hu, Z. Sun, L. Su. </br>
+"3D Human Pose Construction Using WiFi".
+[[paper](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf)]
+
 ### IJCAI2019
 * **SparseSense:** Alireza Abedin, S. Hamid Rezatofighi, Qinfeng Shi, Damith C. Ranasinghe.</br>
 "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks".
