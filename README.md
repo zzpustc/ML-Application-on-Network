@@ -4,6 +4,73 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 ## Benchmark
 
 ## Conference
+### INFOCOM2020
+* Shukai Fan, Yongzhi Wu, Chong Han, and Xudong Wang. </br>
+"A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization".
+[[paper](http://www.umji.sjtu.edu.cn/ji_upload/editor/file/20200117/20200117105241_19701.pdf)]
+
+* Yang Li, Zhenhua Han, Quanlu Zhang, Zhenhua Li, Haisheng Tan. </br>
+"Automating Cloud Deployment for Deep Learning Inference of Real-time Online Services".
+[[paper](http://www.greenorbs.org/people/lzh/papers/[INFOCOM'20]%20AutoDeep.pdf)]
+
+* Jielun Zhang, Fuhao Li, Feng Ye and Hongyu Wu. </br>
+"Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic Classifier Update".
+[[paper](https://arxiv.org/pdf/2002.06359.pdf)]
+
+* Shaohuai Shi, Qiang Wang, Xiaowen Chu, Bo Li, Yang Qin, Ruihao Liu, Xinxiao Zhao. </br>
+"Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs"
+[[paper](https://www.comp.hkbu.edu.hk/~chxw/papers/infocom_2020_MGS.pdf)]
+
+* Thaha Mohammed, Carlee Joe-Wong, Rohit Babbar, and Mario Di Francesco. </br>
+"Distributed Inference Acceleration with Adaptive DNN Partitioning and Offloading".
+[[paper](https://stormvirux.github.io/publication/mjbf-20/mjbf-20.pdf)]
+
+* Xun Wang, Ke Sun, Ting Zhao, Wei Wang, and Qing Gu. </br>
+"Dynamic Speed Warping: Similarity-Based One-shot Learning for Device-free Gesture Signals"
+[[paper](https://samsonsjarkal.github.io/KeSun/files/infocom20_dsw.pdf)]
+
+* Chunhui Duan, Wenlei Shi, Fan Dang and Xuan Ding. </br>
+"Enabling RFID-Based Tracking for Multi-Objects with Visual Aids: A Calibration-Free Solution"
+[[paper](https://dang.fan/publication/infocom20-visual-aids-rfid-tracking/infocom20-visual-aids-rfid-tracking.pdf)]
+
+* Tianxiang Tan and Guohong Cao. </br>
+"FastVA: Deep Learning Video Analytics Through Edge Processing and NPU in Mobile"
+[[paper](https://arxiv.org/pdf/2001.04049.pdf)]
+
+* Shibo Wang, Shusen Yang, Cong Zhao. </br>
+"SurveilEdge: Real-time Video Query based on Collaborative Cloud-Edge Deep Learning"
+[[paper](https://arxiv.org/pdf/2001.01043.pdf)]
+
+* Yanwen Wang, Jiaxing Shen, Yuanqing Zheng. </br>
+"Push the Limit of Acoustic Gesture Recognitio".
+[[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RobuCIR-INFOCOM20.pdf)]
+
+* Francesco Devoti , Vincenzo Sciancalepore , Ilario Filippini , Xavier Costa-Perez.</br>
+"PASID: Exploiting Indoor mmWave Deployments for Passive Intrusion Detection".
+[[paper](http://www.sciancalepore.info/files/infocom2020_dsfc.pdf)]
+
+* Shuang Jiang, Zhiyao Ma, Xiao ZengF, Chenren Xu, Mi ZhangF, Chen Zhang, Yunxin Liu. </br>
+"SCYLLA: QoE-aware Continuous Mobile Vision with FPGA-based Dynamic Deep Neural Network Reconfiguration".
+[[paper](http://soar.group/pubs/Scylla.INFOCOM20.pdf)]
+
+* Xin Yang, Jian Liu, Yingying Chen, Xiaonan Guo, Yucheng Xie. </br>
+"MU-ID: Multi-user Identification Through Gaits Using Millimeter Wave Radios"
+[[paper](https://web.eecs.utk.edu/~jliu/publications/yang2020muid.pdf)]
+
+* Chenshu Wu, Feng Zhang, Beibei Wang, and K. J. Ray Liu. </br>
+"mmTrack: Passive Multi-Person Localization Using Commodity Millimeter Wave Radio"
+[[paper](http://cswu.me/papers/infocom20_mmtrack_paper.pdf)]
+
+* Xiaoxi Zhang, Jianyu Wang, Gauri Joshi, Carlee Joe-Wong. </br>
+"Machine Learning on Volatile Instances"
+[[paper](https://arxiv.org/pdf/2003.05649.pdf)]
+
+* Yongyong Wei, Rong Zheng. </br>
+"Informative Path Planning for Mobile Sensing with Reinforcement Learning".
+[[paper](https://arxiv.org/pdf/2002.07890.pdf)]
+
+* 
+
 ### MobiCom2020
 * **DLoc:** R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
 "Deep Learning based Wireless Localization for Indoor Navigation".
