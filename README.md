@@ -69,7 +69,18 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 "Informative Path Planning for Mobile Sensing with Reinforcement Learning".
 [[paper](https://arxiv.org/pdf/2002.07890.pdf)]
 
-* 
+### SECON2020
+* S. Zhao, X. Jiang, G. Jacobson, R. Jana, W. Hsu, R. Rustamov, M. Talasila, S. Aftab, Y. Chen, C. Borcea. </br>
+"Cellular Network Traffic Prediction Incorporating Handover: A Graph Convolutional Approach"
+[[paper](https://web.njit.edu/~borcea/papers/ieee-secon20.pdf)]
+
+* O. Hashem, K. Harras, M. Youssef. </br>
+"DeepNar: Robust Time-based Sub-meter Indoor Localization using Deep Learning".
+[[paper]]
+
+* P. Santhalingam, Y. Du, R. Wilkerson, A. Hosain, D. Zhang, P. Pathak, H. Rangwala, R. Kushalnagar. </br>
+"Expressive ASL Recognition using Millimeter-wave Wireless Signals"
+[[paper](http://www.phpathak.com/files/exasl-secon.pdf)]
 
 ### MobiCom2020
 * **DLoc:** R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
