@@ -244,6 +244,28 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 "Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
 [[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
 
+### SenSys2019
+* Huatao Xu, Dong Wang, Run  Zhao, Qian  Zhang. </br>
+"FaHo: deep learning enhanced holographic localization for RFID tags"
+[[paper](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)]
+
+* Yinggang Yu, Dong  Wang, Run  Zhao, Qian  Zhang. </br>
+"RFID based real-time recognition of ongoing gesture with adversarial learning"
+[[paper](https://dl.acm.org/doi/abs/10.1145/3356250.3360045)]
+ 
+* Sinh HUYNH, Rajesh Krishna BALAN, JeongGil KO, Youngki LEE. </br>
+"VitaMon: measuring heart rate variability using smartphone front camera"
+[[paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5936&context=sis_research)]
+
+* Jeya Vikranth Jeyakumar, Liangzhen  Lai, Naveen  Suda, Mani B. Srivastava. </br>
+"SenseHAR: a robust virtual activity sensor for smartphones and wearables"
+[[paper](https://dl.acm.org/doi/abs/10.1145/3356250.3360032)]
+
+* Taesik Gong, Yeonsu  Kim, Jinwoo  Shin, Sung-Ju  Lee. </br>
+"MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing"
+[[paper](http://alinlab.kaist.ac.kr/resource/SenSys19_MetaSense.pdf)]
+
+
 ### CoNext2019
 * Serkut Ayvaşık, H. Murat Gürsu, Wolfgang Kellerer. </br>
 "Veni Vidi Dixi: reliable wireless communication with depth images".
