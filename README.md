@@ -239,11 +239,6 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 "Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
 [[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
 
-### MobiSys2019
-* Yue Zheng, Yi Zhang, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang. </br>
-"Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
-[[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
-
 ### SenSys2019
 * Huatao Xu, Dong Wang, Run  Zhao, Qian  Zhang. </br>
 "FaHo: deep learning enhanced holographic localization for RFID tags"
