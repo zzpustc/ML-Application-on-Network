@@ -4,6 +4,15 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 ## Benchmark
 
 ## Conference
+### NSDI2020
+* Kshiteej Mahajan,Arjun Balasubramanian,Arjun Singhvi,Shivaram Venkataraman.</br>
+"Themis: Fair and Efficient GPU Cluster Scheduling"
+[[paper](https://arxiv.org/pdf/1907.01484.pdf)]
+
+* Francis Y. Yan, Hudson Ayers, Chenzhi Zhu, Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, Keith Winstein.</br>
+"Learning in situ: a randomized experiment in video streaming"
+[[paper](https://arxiv.org/pdf/1906.01113.pdf)]
+
 ### INFOCOM2020
 * Shukai Fan, Yongzhi Wu, Chong Han, and Xudong Wang. </br>
 "A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization".
@@ -230,6 +239,15 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 "Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
 [[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
 
+### MobiSys2019
+* Yue Zheng, Yi Zhang, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang. </br>
+"Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
+[[paper](https://www.kunqian.info/files/MobiSys19_Widar3.0_paper.pdf)]
+
+### CoNext2019
+* Serkut Ayvaşık, H. Murat Gürsu, Wolfgang Kellerer. </br>
+"Veni Vidi Dixi: reliable wireless communication with depth images".
+[[paper](https://arxiv.org/pdf/1912.01879.pdf)]
 
 ### IWQoS2019
 * Fangxin Wang, Jiangchuan Liu, Wei Gong. </br>
@@ -241,6 +259,14 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 "RF-Based 3D Skeletons".
 [[paper](https://dl.acm.org/citation.cfm?doid=3230543.3230579)]
 
+* Li Chen, Justinas Lingys, Kai Chen, Feng Liu. </br>
+"AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
+[[paper](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)]
+
+* Junchen Jiang, Ganesh Ananthanarayanan, Peter Bodik, Siddhartha Sen, Ion Stoica. </br>
+"Chameleon: Scalable Adaptation of Video Analytics"
+[[paper](https://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady_faceblurred.pdf)]
+
 ### MobiCom2018
 * Wenjun Jiang, Chenglin Miao, Fenglong Ma, Shuochao Yao, Yaqing Wang, Ye Yuan, Hongfei Xue, Chen Song, Xin Ma, Dimitrios Koutsonikolas, Wenyao Xu, Lu Su. </br>
 "Towards Environment Independent Device Free Human Activity Recognition".
@@ -249,6 +275,24 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 * Zhang J, Tang Z, Li M, et al.</br>
 "CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing".
 [[paper](https://eprints.lancs.ac.uk/id/eprint/126425/7/paper.pdf)]
+
+### MobiSys2018
+* Raghav H. Venkatnarayan, Griffin Page, Muhammad Shahzad. </br>
+"Multi-User Activity Recognition Using WiFi".
+[[paper](https://people.engr.ncsu.edu/mshahza/publications/Hampapur2018Multi.pdf)]
+
+### SenSys2018
+* Salma Elmalaki, Huey-Ru Tsai, Mani Srivastava. </br>
+"Sentio: Driver-in-the-Loop Forward Collision Warning UsingMultisample Reinforcement Learning"
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3274783.3274843)]
+
+* Z Jia, X Lyu, W Zhang, RP Martin, RE Howard. </br>
+"Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks"
+[[paper](http://www.winlab.rutgers.edu/~wuyang/papers/sensys2018.pdf)]
+
+* Zicheng Chi , Yao Yao , Tiantian Xie , Xin Liu , Zhichuan Huang , Wei Wang , Ting Zhu. </br>
+"EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition"
+[[paper](https://www.csee.umbc.edu/~zt/Papers/EAR.pdf)]
 
 ### ICML2017
 *	Mingmin Zhao, Shichao Yue, Dina Katabi, Tommi S. Jaakkola, Matt T. Bianchi. </br>
