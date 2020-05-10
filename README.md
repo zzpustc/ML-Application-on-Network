@@ -4,6 +4,17 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 ## Benchmark
 
 ## Conference
+### AAAI2020
+* Xiaodong Yang, Yiqiang Chen, Hanchao Yu, Yingwei Zhang, Wang Lu, Ruizhe Sun</br>
+"Instance-wise Dynamic Sensor Selection for Human Activity Recognition."
+[[paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-YangX.7952.pdf)]
+
+* Zhen Meng, Song Fu, Jie Yan, Hongyuan Liang, Anfu Zhou,Shilin Zhu, Huadong Ma, Jianhua Liu, Ning Yang</br>
+"Gait Recognition for Co-existing Multiple People Using Millimeter Wave Sensing"
+[[paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-MengZ.4055.pdf)]
+
+
+
 ### NSDI2020
 * Kshiteej Mahajan,Arjun Balasubramanian,Arjun Singhvi,Shivaram Venkataraman.</br>
 "Themis: Fair and Efficient GPU Cluster Scheduling"
