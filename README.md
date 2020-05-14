@@ -103,7 +103,7 @@ This repo is created mainly for updating recent researches about the AI on Netwo
 [[paper](http://www.phpathak.com/files/exasl-secon.pdf)]
 
 ### MobiCom2020
-* **DLoc:** R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
+* :star2:**DLoc:**:star2: R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
 "Deep Learning based Wireless Localization for Indoor Navigation".
 [[paper](http://acsweb.ucsd.edu/~sayyalas/assets/files/DLoc_paper.pdf)]
 
@@ -284,7 +284,7 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 
 ### SIGCOMM 2018
 *	Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Abu Alsheikh, Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi, Antonio Torralba. </br>
-"RF-Based 3D Skeletons".
+:star2::star2:"RF-Based 3D Skeletons".
 [[paper](https://dl.acm.org/citation.cfm?doid=3230543.3230579)]
 
 * Li Chen, Justinas Lingys, Kai Chen, Feng Liu. </br>
@@ -297,7 +297,7 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 
 ### MobiCom2018
 * Wenjun Jiang, Chenglin Miao, Fenglong Ma, Shuochao Yao, Yaqing Wang, Ye Yuan, Hongfei Xue, Chen Song, Xin Ma, Dimitrios Koutsonikolas, Wenyao Xu, Lu Su. </br>
-"Towards Environment Independent Device Free Human Activity Recognition".
+:star2::star2:"Towards Environment Independent Device Free Human Activity Recognition".
 [[paper](https://dl.acm.org/citation.cfm?doid=3241539.3241548)]
 
 * Zhang J, Tang Z, Li M, et al.</br>
