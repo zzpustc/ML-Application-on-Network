@@ -2,6 +2,9 @@
 This repo is created mainly for updating recent researches about the AI on Network.
 
 ## Benchmark
+You can find a popular wifi activity recognition dataset [[here](https://github.com/ermongroup/Wifi_Activity_Recognition)].
+
+I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
 ### AAAI2020
