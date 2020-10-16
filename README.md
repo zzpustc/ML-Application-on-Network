@@ -161,6 +161,7 @@ I will reproduce some famous algorithms and report their performance on this dat
 * **SparseSense:** Alireza Abedin, S. Hamid Rezatofighi, Qinfeng Shi, Damith C. Ranasinghe.</br>
 "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks".
   [[paper](https://arxiv.org/pdf/1906.02399v1.pdf)]
+      - A deep learning solution for wearable sensors missing data.
   
 * **AttnSense:** Haojie Ma, Wenzhong Li, Xiao Zhang, Songcheng Gao and Sanglu Lu. </br>
 "AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition".
@@ -207,6 +208,7 @@ I will reproduce some famous algorithms and report their performance on this dat
 * **IntuWition:** Diana Zhang, Jingxian Wang, Junsu Jang. </br>
 "On the Feasibility of Wi-Fi Based Material Sensing"
 [[paper](http://www.swarunkumar.com/papers/intuwition-mobicom2019.pdf)]
+    - Localization and sensing.
 
 * **vrAIn:** J. A. Ayala-Romero, A. Garcia-Saavedra, M. Gramaglia, X. Costa-Perez, A. Banchs, J. J. Alcaraz. </br>
 "vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs"
@@ -221,6 +223,7 @@ I will reproduce some famous algorithms and report their performance on this dat
 * 	Wenguang Mao, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen </br>
 "RNN-Based Room Scale Hand Motion Tracking"
 [[paper](http://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom19_mao.pdf)]
+    - Generating profile with MUSIC and leveaging RNN to do tracking.
 
 * Luyang Liu, Hongyu Li, Marco Gruteser</br>
 "Edge Assisted Real-time Object Detection for Mobile Augmented Reality"
@@ -316,6 +319,7 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 * Taesik Gong, Yeonsu  Kim, Jinwoo  Shin, Sung-Ju  Lee. </br>
 "MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing"
 [[paper](http://alinlab.kaist.ac.kr/resource/SenSys19_MetaSense.pdf)]
+    - An application of MAML.
 
 
 ### CoNext2019
@@ -327,11 +331,13 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 * Fangxin Wang, Jiangchuan Liu, Wei Gong. </br>
 "WiCAR: wifi-based in-car activity recognition with multi-adversarial domain adaptation".
 [[paper](https://dl.acm.org/citation.cfm?doid=3326285.3329054)]
+    - An in-car environment application of DANN.
 
 ### SIGCOMM 2018
 *	Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Abu Alsheikh, Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi, Antonio Torralba. </br>
 :star2::star2:"RF-Based 3D Skeletons".
 [[paper](https://dl.acm.org/citation.cfm?doid=3230543.3230579)]
+    - Video labeling and RF train.
 
 * Li Chen, Justinas Lingys, Kai Chen, Feng Liu. </br>
 "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
@@ -340,15 +346,18 @@ Fast and Efficient Cross Band Channel Prediction Using Machine Learning.
 * Junchen Jiang, Ganesh Ananthanarayanan, Peter Bodik, Siddhartha Sen, Ion Stoica. </br>
 "Chameleon: Scalable Adaptation of Video Analytics"
 [[paper](https://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady_faceblurred.pdf)]
+    - A simple strategy of choose inference model size.
 
 ### MobiCom2018
 * Wenjun Jiang, Chenglin Miao, Fenglong Ma, Shuochao Yao, Yaqing Wang, Ye Yuan, Hongfei Xue, Chen Song, Xin Ma, Dimitrios Koutsonikolas, Wenyao Xu, Lu Su. </br>
 :star2::star2:"Towards Environment Independent Device Free Human Activity Recognition".
 [[paper](https://dl.acm.org/citation.cfm?doid=3241539.3241548)]
+    - An application of DANN on multiple scenes. Three extra constraints were proposed.
 
 * Zhang J, Tang Z, Li M, et al.</br>
 "CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing".
 [[paper](https://eprints.lancs.ac.uk/id/eprint/126425/7/paper.pdf)]
+    - Multiple ML models ensemble learning.
 
 ### MobiSys2018
 * Raghav H. Venkatnarayan, Griffin Page, Muhammad Shahzad. </br>
