@@ -7,6 +7,17 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### SIGCOMM2020
+* Zili Meng, Minhu Wang, Jiasong Bai, Mingwei Xu, Hongzi Mao, Hongxin Hu. </br>
+"Interpreting Deep Learning-Based Networking Systems."
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3387514.3405859)]
+    - Training decision tree and hyper-graph to replace deep learning model to enhance interpretability.
+
+* Kuntai Du, Ahsan Pervaiz, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.</br>
+"Server-Driven Video Streaming for Deep Learning Inference."
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)]
+    - A dnn-based video stream method towards to server-side high accuracy dnn inference. 
+
 ### AAAI2020
 * Xiaodong Yang, Yiqiang Chen, Hanchao Yu, Yingwei Zhang, Wang Lu, Ruizhe Sun</br>
 "Instance-wise Dynamic Sensor Selection for Human Activity Recognition."
@@ -24,8 +35,14 @@ I will reproduce some famous algorithms and report their performance on this dat
 [[paper](https://arxiv.org/pdf/1907.01484.pdf)]
 
 * Francis Y. Yan, Hudson Ayers, Chenzhi Zhu, Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, Keith Winstein.</br>
-"Learning in situ: a randomized experiment in video streaming"
+"Learning in situ: a randomized experiment in video streaming."
 [[paper](https://arxiv.org/pdf/1906.01113.pdf)]
+    - Evaluation on a collected large-scale video dataset.
+    
+* Unsoo Ha, Junshan Leng, and Alaa Khaddaj, and Fadel Adib. </br>
+"Food and Liquid Sensing in Practical Environments using RFIDs."
+[[paper](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)]
+    - Using VAE to generalize to other domains.
 
 ### INFOCOM2020
 * Shukai Fan, Yongzhi Wu, Chong Han, and Xudong Wang. </br>
@@ -109,10 +126,36 @@ I will reproduce some famous algorithms and report their performance on this dat
 * :star2:**DLoc:**:star2: R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
 "Deep Learning based Wireless Localization for Indoor Navigation".
 [[paper](http://acsweb.ucsd.edu/~sayyalas/assets/files/DLoc_paper.pdf)]
+    - Correct ToF via encoder-decoder network.
 
 * W. Jiang, H. Xue, C. Miao, S. Wang, S. Lin, C. Tian, S. Murali, H. Hu, Z. Sun, L. Su. </br>
 "3D Human Pose Construction Using WiFi".
 [[paper](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf)]
+
+* Jin Huang, Colin Samplawski, Deepak Ganesan, Benjamin Marlin, Heesung Kwon. </br>
+"CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud."
+[[paper](https://dl.acm.org/doi/10.1145/3372224.3419215)][[code](https://github.com/jinhuang01/CLIO)]
+    - A novel model compilation framework that provides a continuum of options for deep learning models to be partitioned across a low-power IoT device and the cloud.
+    
+* Juheon Yi, Sunghyun Choi, Youngki Lee.</br>
+"EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces."
+[[paper](https://juheonyi.github.io/files/EagleEye.pdf)]
+    - Identify Low-Resolution (LR) faces and optimize complex multi-DNN face identification pipeline execution latency.
+    
+* Hanbin Zhang, Gabriel Guo, Chen Song, Chenhan Xu, Kevin Cheung, Jasleen Alexis.</br>
+"PDLens: Smartphone Knows Drug Efectiveness among Parkinson’s via Daily-Life Activity Fusion."
+[[paper](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020a.pdf)]
+    - A deep learning solution on monitor Parkinson.
+    
+* Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato and Chunyan Miao. </br>
+"Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy."
+[[paper](http://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)]
+    - Design of submodel in federated learning.
+    
+* Unsoo Ha, Salah Assana, Fadel Adib. </br>
+"Contactless Seismocardiography via Deep Learning Radars."
+[[paper](http://www.mit.edu/~fadel/papers/RFSCG-paper.pdf)]
+    - A deep learning solution of sensing seismocardiogram with mmwave.
 
 ### IJCAI2019
 * **SparseSense:** Alireza Abedin, S. Hamid Rezatofighi, Qinfeng Shi, Damith C. Ranasinghe.</br>
