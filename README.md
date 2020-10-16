@@ -39,7 +39,7 @@ I will reproduce some famous algorithms and report their performance on this dat
 [[paper](https://arxiv.org/pdf/1906.01113.pdf)]
     - Evaluation on a collected large-scale video dataset.
     
-* Unsoo Ha, Junshan Leng, and Alaa Khaddaj, and Fadel Adib. </br>
+* :star2::star2:Unsoo Ha, Junshan Leng, and Alaa Khaddaj, and Fadel Adib. </br>
 "Food and Liquid Sensing in Practical Environments using RFIDs."
 [[paper](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)]
     - Using VAE to generalize to other domains.
@@ -160,8 +160,8 @@ I will reproduce some famous algorithms and report their performance on this dat
 ### IJCAI2019
 * **SparseSense:** Alireza Abedin, S. Hamid Rezatofighi, Qinfeng Shi, Damith C. Ranasinghe.</br>
 "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks".
-  [[paper](https://arxiv.org/pdf/1906.02399v1.pdf)]
-      - A deep learning solution for wearable sensors missing data.
+ [[paper](https://arxiv.org/pdf/1906.02399v1.pdf)]
+    - A deep learning solution for wearable sensors missing data.
   
 * **AttnSense:** Haojie Ma, Wenzhong Li, Xiao Zhang, Songcheng Gao and Sanglu Lu. </br>
 "AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition".
