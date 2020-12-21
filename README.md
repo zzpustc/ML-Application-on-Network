@@ -7,6 +7,17 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### SenSys 2020
+* Chenning Li, Zheng Liu, Yuguang Yao, Zhichao Cao, Mi Zhang, Yunhao Liu. </br>
+"Wi-Fi See It All: Generative Adversarial network-augmented Versatile Wi-Fi Imaging."
+[[paper](https://cse.msu.edu/~caozc/papers/sensys20-chen.pdf)]
+    - Coarse segmentation by 2D-IFFT, fine-grained segmentation by cycle-GAN. Only working on limited occasions.
+
+* Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo. </br>
+"RF-Net: A Unified Meta-Learning Framework for RF-enabled One-Shot Human Activity Recognition."
+[[paper](https://arxiv.org/pdf/1906.00604.pdf)]
+    - A novel few-shot learning mnethod applying on WiFi-based HAR. 
+
 ### SIGCOMM2020
 * Zili Meng, Minhu Wang, Jiasong Bai, Mingwei Xu, Hongzi Mao, Hongxin Hu. </br>
 "Interpreting Deep Learning-Based Networking Systems."
@@ -108,19 +119,6 @@ I will reproduce some famous algorithms and report their performance on this dat
 * Yongyong Wei, Rong Zheng. </br>
 "Informative Path Planning for Mobile Sensing with Reinforcement Learning".
 [[paper](https://arxiv.org/pdf/2002.07890.pdf)]
-
-### SECON2020
-* S. Zhao, X. Jiang, G. Jacobson, R. Jana, W. Hsu, R. Rustamov, M. Talasila, S. Aftab, Y. Chen, C. Borcea. </br>
-"Cellular Network Traffic Prediction Incorporating Handover: A Graph Convolutional Approach"
-[[paper](https://web.njit.edu/~borcea/papers/ieee-secon20.pdf)]
-
-* O. Hashem, K. Harras, M. Youssef. </br>
-"DeepNar: Robust Time-based Sub-meter Indoor Localization using Deep Learning".
-[[paper]]
-
-* P. Santhalingam, Y. Du, R. Wilkerson, A. Hosain, D. Zhang, P. Pathak, H. Rangwala, R. Kushalnagar. </br>
-"Expressive ASL Recognition using Millimeter-wave Wireless Signals"
-[[paper](http://www.phpathak.com/files/exasl-secon.pdf)]
 
 ### MobiCom2020
 * :star2:**DLoc:**:star2: R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma, A. Sethi, D. Vasisht, D. Bharadia. </br>
