@@ -7,6 +7,12 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### ECCV 2020
+* Lijie Fan*, Tianhong Li*, Yuan Yuan, Dina Katabi. </br>
+"In-Home Daily-Life Captioning Using Radio Signals."
+[[paper](http://rf-diary.csail.mit.edu/papers/rfdiary_eccv.pdf)]
+    - Feel interesting. Extract features of 3D skeletons and floormap to feed language generation mode. Leveraging paired video to align with RF signal. Also aligning unpaired video by domain adversarial adaptation to take advantage of current video caption dataset. Maybe developing floormap-free model is the next step.
+
 ### SenSys 2020
 * Chenning Li, Zheng Liu, Yuguang Yao, Zhichao Cao, Mi Zhang, Yunhao Liu. </br>
 "Wi-Fi See It All: Generative Adversarial network-augmented Versatile Wi-Fi Imaging."
