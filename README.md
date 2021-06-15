@@ -11,7 +11,7 @@ I will reproduce some famous algorithms and report their performance on this dat
 * Wang F, Zhou S, Panev S, et al. </br>
 "Person-in-WiFi: Fine-grained Person Perception using WiFi".
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf)]
-    - Feel surprised about the pose estimation in this paper, which just leverages 3 antennas WiFi transmitter and receiver. Doubt on its generalization ability.
+    - Feel surprised about the pose estimation performance in this paper, which just leverages 3 antennas WiFi transmitter and receiver. Doubt on its generalization ability.
 
 ### ECCV 2020
 * Lijie Fan*, Tianhong Li*, Yuan Yuan, Dina Katabi. </br>
