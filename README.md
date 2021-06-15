@@ -7,6 +7,12 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### ICCV2019
+* Wang F, Zhou S, Panev S, et al. </br>
+"Person-in-WiFi: Fine-grained Person Perception using WiFi".
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf)]
+    - Feel surprised about the pose estimation in this paper, which just leverages 3 antennas WiFi transmitter and receiver. Doubt on its generalization ability.
+
 ### ECCV 2020
 * Lijie Fan*, Tianhong Li*, Yuan Yuan, Dina Katabi. </br>
 "In-Home Daily-Life Captioning Using Radio Signals."
@@ -43,7 +49,6 @@ I will reproduce some famous algorithms and report their performance on this dat
 * Zhen Meng, Song Fu, Jie Yan, Hongyuan Liang, Anfu Zhou,Shilin Zhu, Huadong Ma, Jianhua Liu, Ning Yang</br>
 "Gait Recognition for Co-existing Multiple People Using Millimeter Wave Sensing"
 [[paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-MengZ.4055.pdf)]
-
 
 
 ### NSDI2020
