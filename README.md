@@ -7,7 +7,13 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
-### ICCV2019
+### NSDI 2021
+* Junyang Shi, Mo Sha, and Xi Peng. </br>
+"Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation".
+[[paper](http://www.cs.binghamton.edu/~msha/publications/nsdi21.pdf)]
+    - Apply domain adaptation on mesh network configuration from simulation to reality.
+
+### ICCV 2019
 * Wang F, Zhou S, Panev S, et al. </br>
 "Person-in-WiFi: Fine-grained Person Perception using WiFi".
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf)]
