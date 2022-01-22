@@ -7,6 +7,27 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### SenSys 2021
+* Linlin Tu, Xiaomin Ouyang, Jiayu Zhou, Yuze He, Guoliang Xing.</br>
+"FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition".
+[[paper](https://dl.acm.org/doi/abs/10.1145/3485730.3485946)]
+    - Employing federated learning into HAR.
+    
+* Tiantian Liu, Ming Gao, Feng Lin, Chao Wang, Zhongjie Ba, Jinsong Han, Wenyao Xu, Kui Ren. </br>
+"Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals".
+[[paper](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-sensys2021.pdf)]
+    - Multimodal system of RF and speech.
+    
+* Tianyue Zheng, Zhe Chen, Shujie Zhang, Chao Cai, Jun Luo.</br>
+"MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar".
+[[paper](https://arxiv.org/pdf/2111.08195.pdf)]
+    - Fine-grained respiration detection with RF.
+    
+* Rui Xiao, Jianwei Liu, Jinsong Han, Kui Ren. </br>
+"OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi".
+[[paper](https://dl.acm.org/doi/10.1145/3485730.3485936)]
+    - One-shot learning application on WiFi-based HAR.
+
 ### NSDI 2021
 * Junyang Shi, Mo Sha, and Xi Peng. </br>
 "Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation".
