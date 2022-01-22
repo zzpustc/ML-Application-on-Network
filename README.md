@@ -7,6 +7,55 @@ You can find a popular wifi activity recognition dataset [[here](https://github.
 I will reproduce some famous algorithms and report their performance on this dataset if I am free.
 
 ## Conference
+### MobiCom 2021
+* Yongzhi Huang, Kaixin Chen, Yandao Huang, Lu Wang, Kaishun Wu.</br>
+"Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration".
+[[paper](https://www.huangyongzhi.com.cn/data/Vi-Liquid.pdf)]
+    - Liquid sensing iwth mobile phone.
+    
+* Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, Keqiu Li. </br>
+"RFID and Camera Fusion for Recognition of Human-object Interactions".
+[[paper](https://dl.acm.org/doi/abs/10.1145/3447993.3483244)]
+    - Incorporate RFID with vision.
+    
+* Shuangjiao Zhai, Zhanyong Tang, Petteri Nurmi, Dingyi Fang, Xiaojiang Chen, Zheng Wang. </br>
+"RISE: robust wireless sensing using probabilistic and statistical assessments".
+[[paper](https://helda.helsinki.fi/bitstream/handle/10138/338770/mobicom21_final474_1_.pdf?sequence=1)]
+    - For robust wireless sensing.
+
+* Tianyue Zheng, Zhe Chen, Jun Luo, Lin Ke, Chaoyang Zhao, Yaowen Yang. </br>
+"SiWa: see into walls via deep UWB radar".
+[[paper](https://arxiv.org/pdf/2110.14279.pdf)]
+
+* Andrea Ferlini, Dong Ma, Robert Harle, Cecilia Mascolo. </br>
+"EarGate: Gait-based User Identification with In-ear Microphones".
+[[paper](https://arxiv.org/pdf/2108.12305.pdf)]
+
+* Zhe Chen, Tianyue Zheng, Chao Cai, Jun Luo.</br>
+"MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing".
+[[paper](https://tianyuez.github.io/pubs/movifi.pdf)]
+    - Sensing vital signs with RF.
+ 
+### MobiSys 2021
+* Hongfei Xue, Yan Ju, et. al. </br>
+"mmMesh: Towards 3D Real-Time Dynamic Human Mesh Construction Using Millimeter-Wave".
+[[paper](https://engineering.purdue.edu/~lusu/papers/MobiSys2021.pdf)]
+    - 3D skeleton using millimeter-wav.
+    
+* Belal Korany, Yasamin Mostofi. </br>
+"Counting a stationary crowd using off-the-shelf wifi".
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3458864.3468012)]
+    - Stationary crowd using WiFi.
+    
+* Dong Ma, Andrea Ferlini, Cecilia Mascolo. </br>
+"OESense: Employing Occlusion Effect for In-ear Human Sensing".
+[[paper](https://arxiv.org/pdf/2106.08607.pdf)]
+    - HAR using smart earbuds.
+    
+* Xiaomin Ouyang, Zhiyuan Xie, Jiayu Zhou, Jianwei Huang, Guoliang Xing. </br>
+"ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition".
+[[paper](http://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)]
+
 ### SenSys 2021
 * Linlin Tu, Xiaomin Ouyang, Jiayu Zhou, Yuze He, Guoliang Xing.</br>
 "FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition".
